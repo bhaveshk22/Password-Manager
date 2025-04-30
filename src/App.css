@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer components{
+  .clickable_text{
+    @apply cursor-pointer hover:font-bold text-white text-lg;
+  }
+  .text_box{
+    @apply border-1 border-black rounded-xl px-3 bg-white
+  }
+}

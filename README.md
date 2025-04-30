@@ -6,7 +6,8 @@
 ---
 ## 📸 Screenshots (optional)
 
-![Screenshot (2)](https://github.com/user-attachments/assets/fca1e980-d7f7-4b19-86ba-00ff01eaa706)
+![Screenshot (2)](https://github.com/user-attachments/assets/de0f0faa-11bc-4882-9d62-cf07f0ab18c5)
+
 
 
 ---
